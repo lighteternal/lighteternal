@@ -91,9 +91,9 @@ I build AI and data systems with a bias toward usable research, practical automa
 ## Current Focus
 
 ```text
-🔭 Building      TypeScript products and agentic tooling
-🧩 Exploring     RAG systems, knowledge graphs, and practical NLP
-🌍 Interested in Applied AI that ships beyond the notebook
+🔭 Building      Agentic AI for regulated decision and research workflows
+🧩 Exploring     Multi-agent systems, deep-research agents, and evaluation loops
+🌍 Interested in Practical GenAI and predictive ML that augment experts without adding risk
 ```
 
 ---
