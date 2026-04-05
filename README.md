@@ -70,8 +70,6 @@ I hold a **PhD in Machine Learning focused on NLP** and have spent the last deca
 
 ---
 
-## Contribution Snake
-
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/lighteternal/lighteternal/output/github-contribution-grid-snake-dark.svg)
