@@ -54,11 +54,11 @@ I hold a **PhD in Machine Learning focused on NLP** and have spent the last deca
 
 | Project | What it explores |
 | --- | --- |
+| [dendrite](https://github.com/lighteternal/dendrite) | An open-source, agentic biomedical discovery workbench for evidence-attributed research synthesis. |
 | [jury](https://github.com/lighteternal/jury) | Multi-agent and decision-intelligence experimentation around agent orchestration and evaluation. |
+| [FarFetched_NLP](https://github.com/lighteternal/FarFetched_NLP) | Claim validation in dynamic textual environments with an entity-centric reasoning approach. |
 | [PENELOPIE](https://github.com/lighteternal/PENELOPIE) | Greek-language open information extraction through machine translation, grounded in NLP research. |
 | [Automated-Knowledge-Graph-Construction](https://github.com/lighteternal/Automated-Knowledge-Graph-Construction) | Entity extraction and automated knowledge graph construction with NLP and Neo4j. |
-| [FarFetched_NLP](https://github.com/lighteternal/FarFetched_NLP) | Claim validation in dynamic textual environments with an entity-centric reasoning approach. |
-| [dendrite](https://github.com/lighteternal/dendrite) | Recent applied build work alongside the heavier research and AI systems track. |
 
 ---
 
