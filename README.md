@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a506b&height=180&section=header&text=Dimitris%20Papadopoulos&fontSize=40&fontColor=f8fafc&fontAlignY=36&desc=AI%20systems%20%C2%B7%20knowledge%20graphs%20%C2%B7%20RAG%20%C2%B7%20agentic%20workflows&descSize=18&descAlignY=58" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,45:1c2541,100:5bc0be&height=190&section=header&text=Dimitris%20Papadopoulos&fontSize=40&fontColor=f8fafc&fontAlignY=36&desc=Agentic%20AI%20%C2%B7%20Applied%20ML%20%C2%B7%20Biotech%20%C2%B7%20Fintech&descSize=18&descAlignY=58" alt="Header banner" />
 
 # Hi there, I'm Dimitris Papadopoulos
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=5BC0BE&center=true&vCenter=true&width=760&lines=Building+AI+and+data+systems+at+EXUS;Knowledge+Graphs%2C+NLP%2C+and+RAG;Building+agentic+tooling+from+Athens)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=5BC0BE&center=true&vCenter=true&width=760&lines=Chief+AI+Officer+at+EXUS;PhD+in+Machine+Learning+and+NLP;Shipping+agentic+AI+into+regulated+workflows)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/lighteternal?logo=github&style=for-the-badge&color=5BC0BE&labelColor=0B132B)](https://github.com/lighteternal)
 [![GitHub User's stars](https://img.shields.io/github/stars/lighteternal?style=for-the-badge&logo=github&color=F59E0B&labelColor=0B132B)](https://github.com/lighteternal?tab=repositories)
@@ -16,29 +16,35 @@
 
 ## About Me
 
-I build AI and data systems with a bias toward usable research, practical automation, and knowledge-centric products. My work spans **knowledge graphs**, **RAG pipelines**, **NLP**, and newer **multi-agent workflows**, with public projects ranging from Greek-language information extraction to TypeScript applications and agent tooling.
+I am an AI leader and engineer building **GenAI, agentic systems, and predictive ML** for high-stakes environments. My work spans **biotech**, **fintech**, and earlier **cybersecurity** programs, with a consistent bias toward systems that are transparent, measurable, and safe to use in real decision-making.
+
+I hold a **PhD in Machine Learning focused on NLP** and have spent the last decade moving between research and production: from Greek-language information extraction and knowledge graph construction to biomedical copilots, deep-research agents, and regulated AI workflows.
 
 ```text
 🏢 Company      EXUS
 📍 Location     Athens, Greece
-🧠 Interests    AI systems, RAG, knowledge graphs, NLP, agentic tooling
+🎓 Background   PhD in Machine Learning (NLP)
+🧠 Interests    Multi-agent AI, biotech, fintech, NLP, knowledge graphs
 🤗 Handle       lighteternal on Hugging Face
 ```
 
 ---
 
-## Tech Directions
+## Focus Areas
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0F172A?style=for-the-badge&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-7C3AED?style=for-the-badge&logoColor=white)
+![Biomedical AI](https://img.shields.io/badge/Biomedical%20AI-B91C1C?style=for-the-badge&logoColor=white)
+![Fintech AI](https://img.shields.io/badge/Fintech%20AI-14532D?style=for-the-badge&logoColor=white)
+![NLP Research](https://img.shields.io/badge/NLP%20Research-0EA5E9?style=for-the-badge&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&logoColor=white)
 ![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-1D4ED8?style=for-the-badge&logoColor=white)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-7C3AED?style=for-the-badge&logoColor=white)
+![Predictive ML](https://img.shields.io/badge/Predictive%20ML-F59E0B?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -48,21 +54,19 @@ I build AI and data systems with a bias toward usable research, practical automa
 
 | Project | What it explores |
 | --- | --- |
-| [dendrite](https://github.com/lighteternal/dendrite) | A recent TypeScript project with a live Vercel deployment. |
-| [jury](https://github.com/lighteternal/jury) | Multi-agent, decision-intelligence, and Codex-skill oriented tooling. |
-| [PENELOPIE](https://github.com/lighteternal/PENELOPIE) | Open information extraction for Greek through machine translation. |
-| [Automated-Knowledge-Graph-Construction](https://github.com/lighteternal/Automated-Knowledge-Graph-Construction) | Entity extraction and graph construction on textual data with Neo4j and NLP. |
-| [FarFetched_NLP](https://github.com/lighteternal/FarFetched_NLP) | Claim validation for dynamic textual environments. |
+| [jury](https://github.com/lighteternal/jury) | Multi-agent and decision-intelligence experimentation around agent orchestration and evaluation. |
+| [PENELOPIE](https://github.com/lighteternal/PENELOPIE) | Greek-language open information extraction through machine translation, grounded in NLP research. |
+| [Automated-Knowledge-Graph-Construction](https://github.com/lighteternal/Automated-Knowledge-Graph-Construction) | Entity extraction and automated knowledge graph construction with NLP and Neo4j. |
+| [FarFetched_NLP](https://github.com/lighteternal/FarFetched_NLP) | Claim validation in dynamic textual environments with an entity-centric reasoning approach. |
+| [dendrite](https://github.com/lighteternal/dendrite) | Recent applied build work alongside the heavier research and AI systems track. |
 
 ---
 
-## Activity Graph
+## Research Notes
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lighteternal&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+- PhD in Machine Learning with a focus on **Natural Language Processing**
+- Research and applied work across **biomedical AI**, **knowledge graphs**, **claim validation**, and **Greek-language NLP**
+- Publications and research artifacts available across **Google Scholar** and [Hugging Face](https://huggingface.co/lighteternal)
 
 ---
 
@@ -91,9 +95,9 @@ I build AI and data systems with a bias toward usable research, practical automa
 ## Current Focus
 
 ```text
-🔭 Building      Agentic AI for regulated decision and research workflows
-🧩 Exploring     Multi-agent systems, deep-research agents, and evaluation loops
-🌍 Interested in Practical GenAI and predictive ML that augment experts without adding risk
+🔭 Building      Agentic AI for regulated decision, credit risk, and research workflows
+🧩 Exploring     Multi-agent systems, deep-research agents, biomedical copilots, and evaluation loops
+🌍 Interested in Practical GenAI and predictive ML that augment experts without adding operational risk
 ```
 
 ---
@@ -112,6 +116,6 @@ I build AI and data systems with a bias toward usable research, practical automa
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A506B,100:0B132B&height=110&section=footer" alt="Footer banner" />
 
-*From knowledge graphs to agentic systems.*
+*From NLP research to agentic AI in biotech and fintech.*
 
 </div>
