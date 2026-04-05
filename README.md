@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,45:1c2541,100:5bc0be&height=190&section=header&text=Dimitris%20Papadopoulos&fontSize=40&fontColor=f8fafc&fontAlignY=36&desc=Agentic%20AI%20%C2%B7%20Applied%20ML%20%C2%B7%20Biotech%20%C2%B7%20Fintech&descSize=18&descAlignY=58" alt="Header banner" />
 
-# Hi there, I'm Dimitris Papadopoulos
+# Hi there, I'm Dimitris!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=5BC0BE&center=true&vCenter=true&width=760&lines=Chief+AI+Officer+at+EXUS;PhD+in+Machine+Learning+and+NLP;Shipping+agentic+AI+into+regulated+workflows)](https://git.io/typing-svg)
 
