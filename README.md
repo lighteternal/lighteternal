@@ -54,6 +54,10 @@ I hold a **PhD in Machine Learning focused on NLP** and have spent the last deca
 
 | Project | What it explores |
 | --- | --- |
+| [drugbase-gr](https://github.com/lighteternal/drugbase-gr) | Open corpus of every authorized pharmaceutical in Greece: 5,018 brands, 13,445 structured documents from ΕΟΦ and EMA. Live at [drugbase.gr](https://drugbase.gr). |
+| [legalize-gr](https://github.com/lighteternal/legalize-gr) | Version-controlled Greek legislation corpus — 6,804 ΦΕΚ Α΄ laws and 26 consolidated codes as Markdown, git-tracked by publication date. |
+| [PsychGNN](https://huggingface.co/lighteternal/psychgnn-masked-edge-imputation-model) | Graph neural network for psychiatric genomics — link prediction and masked edge imputation over gene-phenotype networks. On Hugging Face. |
+| [BioAssayAlign](https://huggingface.co/lighteternal/BioAssayAlign-Qwen3-Embedding-0.6B-Compatibility) | Drug-discovery embedding model for bioassay ranking and assay-conditioned molecular representation, built on Qwen3. On Hugging Face. |
 | [dendrite](https://github.com/lighteternal/dendrite) | An open-source, agentic biomedical discovery workbench for evidence-attributed research synthesis. |
 | [jury](https://github.com/lighteternal/jury) | Multi-agent and decision-intelligence experimentation around agent orchestration and evaluation. |
 | [FarFetched_NLP](https://github.com/lighteternal/FarFetched_NLP) | Claim validation in dynamic textual environments with an entity-centric reasoning approach. |
