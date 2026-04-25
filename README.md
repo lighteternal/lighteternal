@@ -28,7 +28,13 @@ I hold a **PhD in Machine Learning focused on NLP** and have spent the last deca
 🤗 Handle       lighteternal on Hugging Face
 ```
 
-> 🌐 Creator of **[drugbase.gr](https://drugbase.gr)** — free, open drug information for Greece. Patient leaflets and prescribing information for 5,018 brands, sourced directly from ΕΟΦ and EMA.
+<div align="center">
+
+<a href="https://drugbase.gr">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b132b,100:b91c1c&text=%F0%9F%8C%90%20drugbase.gr&desc=Free%2C%20open%20drug%20information%20for%20Greece%20%E2%80%94%205%2C018%20brands%20%C2%B7%20%CE%95%CE%9F%CE%A6%20%2B%20EMA&fontColor=ffffff&fontSize=22&descSize=13&height=80&descAlignY=72" width="100%" alt="drugbase.gr — free open drug information for Greece"/>
+</a>
+
+</div>
 
 ---
 
