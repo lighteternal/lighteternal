@@ -30,6 +30,10 @@ I hold a **PhD in Machine Learning focused on NLP** and have spent the last deca
 
 <div align="center">
 
+<a href="https://llmarena.gr">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b132b,100:7c3aed&text=%F0%9F%8F%86%20llmarena.gr&desc=Greek%20LLM%20Benchmark%20%E2%80%94%20head-to-head%20evaluation%20and%20leaderboard%20of%20LLMs%20on%20Greek%20language%20tasks&fontColor=ffffff&fontSize=22&descSize=13&height=80&descAlignY=72" width="100%" alt="llmarena.gr — Greek LLM Benchmark"/>
+</a>
+
 <a href="https://drugbase.gr">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b132b,100:b91c1c&text=%F0%9F%8C%90%20drugbase.gr&desc=Free%2C%20open%20drug%20information%20for%20Greece%20%E2%80%94%205%2C018%20brands%20%C2%B7%20%CE%95%CE%9F%CE%A6%20%2B%20EMA&fontColor=ffffff&fontSize=22&descSize=13&height=80&descAlignY=72" width="100%" alt="drugbase.gr — free open drug information for Greece"/>
 </a>
@@ -62,6 +66,7 @@ I hold a **PhD in Machine Learning focused on NLP** and have spent the last deca
 
 | Project | What it explores |
 | --- | --- |
+| [llmarena.gr](https://llmarena.gr) | Greek LLM Benchmark — head-to-head evaluation and leaderboard of large language models on Greek language tasks. Live at [llmarena.gr](https://llmarena.gr). |
 | [drugbase-gr](https://github.com/lighteternal/drugbase-gr) | Open corpus of every authorized pharmaceutical in Greece: 5,018 brands, 13,445 structured documents from ΕΟΦ and EMA. Live at [drugbase.gr](https://drugbase.gr). |
 | [legalize-gr](https://github.com/lighteternal/legalize-gr) | Version-controlled Greek legislation corpus — 6,804 ΦΕΚ Α΄ laws and 26 consolidated codes as Markdown, git-tracked by publication date. |
 | [PsychGNN](https://huggingface.co/lighteternal/psychgnn-masked-edge-imputation-model) | Graph neural network for psychiatric genomics — link prediction and masked edge imputation over gene-phenotype networks. On Hugging Face. |
