@@ -4,7 +4,7 @@
 
 # Hi there, I'm Dimitris!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=5BC0BE&center=true&vCenter=true&width=760&lines=Creator+of+BioDecision-4B;PhD+in+Machine+Learning+and+NLP;Shipping+agentic+AI+into+regulated+workflows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=5BC0BE&center=true&vCenter=true&width=760&lines=PhD+in+Machine+Learning+and+NLP;Shipping+agentic+AI+into+regulated+workflows)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/lighteternal?logo=github&style=for-the-badge&color=5BC0BE&labelColor=0B132B)](https://github.com/lighteternal)
 [![GitHub User's stars](https://img.shields.io/github/stars/lighteternal?style=for-the-badge&logo=github&color=F59E0B&labelColor=0B132B)](https://github.com/lighteternal?tab=repositories)
@@ -16,9 +16,13 @@
 
 ## About Me
 
-I am an AI leader and engineer building **GenAI, agentic systems, and predictive ML** for high-stakes environments. My work spans **biotech**, **fintech**, and earlier **cybersecurity** programs, with a consistent bias toward systems that are transparent, measurable, and safe to use in real decision-making.
+Senior AI leader and creator of [llmarena.gr](https://llmarena.gr) and [drugbase.gr](https://drugbase.gr).
 
-I hold a **PhD in Machine Learning focused on NLP** and have spent the last decade moving between research and production: from Greek-language information extraction and knowledge graph construction to biomedical copilots, deep-research agents, and regulated AI workflows.
+An engineer at heart with **10+ years** building AI systems, leading AI strategy and teams, and turning research into systems people can trust. I stay close to the code to make sure what we build is **fair, transparent and useful**.
+
+My journey has taken me through **cybersecurity**, **biomedicine** and **fintech**: three very different arenas, united by one idea: when AI is built for people, it transforms entire industries. I've led and built autonomous systems that safeguard digital assets, surface breakthrough biomedical insights and restore fairness in debt collection. Technology is the tool; empowerment is the goal.
+
+As a mentor and storyteller, I believe in the power of continuous learning and collaboration. My roots in research and machine learning (a **PhD in Machine Learning focused on NLP**) shaped how I solve problems, and I love sharing that journey with others.
 
 ```text
 📍 Location     Athens, Greece
