@@ -4,7 +4,7 @@
 
 # Hi there, I'm Dimitris!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=5BC0BE&center=true&vCenter=true&width=760&lines=Chief+AI+Officer+at+EXUS;PhD+in+Machine+Learning+and+NLP;Shipping+agentic+AI+into+regulated+workflows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=5BC0BE&center=true&vCenter=true&width=760&lines=PhD+in+Machine+Learning+and+NLP;Shipping+agentic+AI+into+regulated+workflows)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/lighteternal?logo=github&style=for-the-badge&color=5BC0BE&labelColor=0B132B)](https://github.com/lighteternal)
 [![GitHub User's stars](https://img.shields.io/github/stars/lighteternal?style=for-the-badge&logo=github&color=F59E0B&labelColor=0B132B)](https://github.com/lighteternal?tab=repositories)
@@ -16,12 +16,15 @@
 
 ## About Me
 
-I am an AI leader and engineer building **GenAI, agentic systems, and predictive ML** for high-stakes environments. My work spans **biotech**, **fintech**, and earlier **cybersecurity** programs, with a consistent bias toward systems that are transparent, measurable, and safe to use in real decision-making.
+Senior AI leader and creator of [llmarena.gr](https://llmarena.gr) and [drugbase.gr](https://drugbase.gr).
 
-I hold a **PhD in Machine Learning focused on NLP** and have spent the last decade moving between research and production: from Greek-language information extraction and knowledge graph construction to biomedical copilots, deep-research agents, and regulated AI workflows.
+An engineer at heart with **10+ years** building AI systems, leading AI strategy and teams, and turning research into systems people can trust. I stay close to the code to make sure what we build is **fair, transparent and useful**.
+
+My journey has taken me through **cybersecurity**, **biomedicine** and **fintech**: three very different arenas, united by one idea: when AI is built for people, it transforms entire industries. I've led and built autonomous systems that safeguard digital assets, surface breakthrough biomedical insights and restore fairness in debt collection. Technology is the tool; empowerment is the goal.
+
+As a mentor and storyteller, I believe in the power of continuous learning and collaboration. My roots in research and machine learning (a **PhD in Machine Learning focused on NLP**) shaped how I solve problems, and I love sharing that journey with others.
 
 ```text
-🏢 Company      EXUS
 📍 Location     Athens, Greece
 🎓 Background   PhD in Machine Learning (NLP)
 🧠 Interests    Multi-agent AI, biotech, fintech, NLP, knowledge graphs
@@ -29,6 +32,10 @@ I hold a **PhD in Machine Learning focused on NLP** and have spent the last deca
 ```
 
 <div align="center">
+
+<a href="https://huggingface.co/lighteternal/biodecision-tev1-4b">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b132b,100:0f766e&text=%F0%9F%A7%AC%20BioDecision-4B&desc=System-1%20decision%20model%20for%20biomedicine%2C%20pharma%20%26%20clinical%20trials%20%E2%80%94%2070.2%25%20on%2028%20held-out%20benchmarks&fontColor=ffffff&fontSize=22&descSize=13&height=80&descAlignY=72" width="100%" alt="BioDecision-4B — System-1 decision model for biomedicine"/>
+</a>
 
 <a href="https://llmarena.gr">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b132b,100:7c3aed&text=%F0%9F%8F%86%20llmarena.gr&desc=Greek%20LLM%20Benchmark%20%E2%80%94%20head-to-head%20evaluation%20and%20leaderboard%20of%20LLMs%20on%20Greek%20language%20tasks&fontColor=ffffff&fontSize=22&descSize=13&height=80&descAlignY=72" width="100%" alt="llmarena.gr — Greek LLM Benchmark"/>
@@ -66,6 +73,7 @@ I hold a **PhD in Machine Learning focused on NLP** and have spent the last deca
 
 | Project | What it explores |
 | --- | --- |
+| [BioDecision-4B](https://huggingface.co/lighteternal/biodecision-tev1-4b) | System-1 decision model for biomedicine, pharma and clinical trials: returns a calibrated probability per answer in one forward pass, with new decision tasks defined in the request. 70.2% on 46,199 held-out decisions from 28 biomedical benchmarks (+7.8 over Qwen3.5-4B). [Demo](https://huggingface.co/spaces/lighteternal/biodecision-demo) · [Data](https://huggingface.co/datasets/lighteternal/biodecision-sft-v2.2). |
 | [llmarena.gr](https://llmarena.gr) | Greek LLM Benchmark — head-to-head evaluation and leaderboard of large language models on Greek language tasks. Live at [llmarena.gr](https://llmarena.gr). |
 | [drugbase-gr](https://github.com/lighteternal/drugbase-gr) | Open corpus of every authorized pharmaceutical in Greece: 5,018 brands, 13,445 structured documents from ΕΟΦ and EMA. Live at [drugbase.gr](https://drugbase.gr). |
 | [legalize-gr](https://github.com/lighteternal/legalize-gr) | Version-controlled Greek legislation corpus — 6,804 ΦΕΚ Α΄ laws and 26 consolidated codes as Markdown, git-tracked by publication date. |
