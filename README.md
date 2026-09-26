@@ -34,7 +34,7 @@ As a mentor and storyteller, I believe in the power of continuous learning and c
 <div align="center">
 
 <a href="https://huggingface.co/lighteternal/biodecision-tev1-4b">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b132b,100:0f766e&text=%F0%9F%A7%AC%20BioDecision-4B&desc=System-1%20decision%20model%20for%20biomedicine%2C%20pharma%20%26%20clinical%20trials%20%E2%80%94%2070.2%25%20on%2028%20held-out%20benchmarks&fontColor=ffffff&fontSize=22&descSize=13&height=80&descAlignY=72" width="100%" alt="BioDecision-4B — System-1 decision model for biomedicine"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b132b,100:0f766e&text=%F0%9F%A7%AC%20BioDecision-4B&desc=System-1%20decision%20model%20for%20biomedicine%2C%20pharma%20and%20clinical%20trials%20%C2%B7%20open%20on%20Hugging%20Face&fontColor=ffffff&fontSize=22&descSize=13&height=80&descAlignY=72" width="100%" alt="BioDecision-4B — System-1 decision model for biomedicine"/>
 </a>
 
 <a href="https://llmarena.gr">
